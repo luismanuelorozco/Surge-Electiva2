@@ -1,5 +1,5 @@
 # Surge-Electiva2
-A continuación están realizadas las primeras practicas asignadas por el maestro Elvys Cruz de la materia Electiva 2.  Estudiante: Luis Manuel Orozco - 20198854 
+A continuación están realizadas las primeras practicas asignadas por el maestro Elvys Cruz de la materia Electiva 2.
 
 Instituto Tecnológico de Las Américas
 
